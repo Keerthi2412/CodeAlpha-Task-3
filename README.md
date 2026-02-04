@@ -39,7 +39,13 @@ Insight:
 Conclusion:
    1.Electronics purchases involve higher spending and variability, while clothing and beauty products provide stable and predictable revenue streams.
 
-
+Correlation Heatmap(Heatmap):
+Insight:
+   1.Strong positive correlation between Quantity and Total Amount.
+   2.Price per unit significantly impacts total sales value.
+Conclusion:
+   1.Revenue growth is directly influenced by both pricing strategies and quantity sold, 
+    highlighting the importance of optimal pricing and volume-based sales tactics.
 
 
 
